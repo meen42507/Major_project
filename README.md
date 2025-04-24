@@ -27,4 +27,3 @@ BTW
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ca13b271-7136-4a0e-8269-52da87d8b0ae/deploy-status)](https://app.netlify.com/sites/certificate-generatar/deploys)
 
 
-# Major_project
